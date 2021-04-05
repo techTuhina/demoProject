@@ -8,6 +8,8 @@ public class SimpleJavaTest {
 	public void Simpleautomation() {
 		
 		System.out.println("Simpleautomation");
+		System.out.println("NewAddition1");
+		System.out.println("NewAddition2");
 		
 	}
 @Test
