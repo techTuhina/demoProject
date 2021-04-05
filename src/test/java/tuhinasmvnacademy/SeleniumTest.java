@@ -7,6 +7,8 @@ public class SeleniumTest {
 @Test
 public void Webautomation() {
 	System.out.println("Webautomation");
+	
+	System.out.println("Mobileautomation");
 	}
 @Test	
 	public void WebElementUI() {
