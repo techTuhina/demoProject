@@ -14,4 +14,9 @@ public void Webautomation() {
 	public void WebElementUI() {
 		System.out.println("WebElementUI");
 	}
+//newBranchdemo
+@Test	
+public void WebElementUI1() {
+	System.out.println("WebElementUI");
+}
 }

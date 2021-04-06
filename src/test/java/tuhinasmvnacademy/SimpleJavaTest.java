@@ -24,5 +24,18 @@ public class SimpleJavaTest {
 
 		
 	}
+//newBranchDemo
+@Test
+public void ElementUI1() {
+	
+	System.out.println("ElementUI");
+	
+	//user1
+	System.out.println("ElementUIAdd1");
+	System.out.println("ElementUIAdd2");
+
+
+	
+}
 
 }
